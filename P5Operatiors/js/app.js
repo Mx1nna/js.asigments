@@ -30,5 +30,4 @@ console.log(speedOutput);
 
 let speedInput = 70%1.82;
 let speedOutput = 21.13
-speedInput = speedInput /
-
+speedInput = speedInput 
